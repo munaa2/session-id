@@ -14,7 +14,7 @@
 
 # `Owner`
 
- <a href="https://github.com/munaa2"><img src="https://github.com/username.png" width="250" height="250" alt="Malvin Tech"/></a>
+ <a href="https://github.com/munaa2"><img src="https://github.com/username.png" width="250" height="250" alt="CORNEH TECH"/></a>
 
 
    
